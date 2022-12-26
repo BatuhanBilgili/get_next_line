@@ -41,6 +41,9 @@ It means that you should be able to call get_next_line() to read from fd 3, then
 fd 4, then 5, then once again 3, once again 4, and so forth.
 > - Append the _bonus.[c\h] suffix to the bonus part files.
 It means that, in addition to the mandatory part files, you will turn in the 3 following
-files: - get_next_line_bonus.c
-       - get_next_line_bonus.h
-       - get_next_line_utils_bonus.c
+files:
+   - get_next_line_bonus.c
+   - get_next_line_bonus.h
+   - get_next_line_utils_bonus.c
+
+      
