@@ -1,6 +1,7 @@
 # get_next_line
 
-## 42 Curses Get_next_line Project ![document files icon](https://user-images.githubusercontent.com/91786686/209575039-0fc4d9b4-2753-4d11-af04-969ac9ae4010.jpeg)
+## 42 Curses Get_next_line Project <img width="651" alt="Ekran Resmi 2022-12-26 21 28 24" src="https://user-images.githubusercontent.com/91786686/209575226-108c54a0-8770-4693-8ac8-64944765cd8c.png">
+
 
 This project is about programming a function that returns a line
 read from a file descriptor.
