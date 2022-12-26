@@ -54,7 +54,7 @@ gcc get_next_line.c get_next_line_utils.c BUFFER_SIZE=n
 ```
 ## Tester
 -You can test the project yourself without submitting this link:
-  - Tester[https://github.com/Tripouille/gnlTester]
+  - [Tester](https://github.com/Tripouille/gnlTester)
 ## Final Result
    
    <img width="1302" alt="Ekran Resmi 2022-12-26 22 03 52" src="https://user-images.githubusercontent.com/91786686/209577066-80f69109-9eca-4339-926b-7fae7a8c0c9c.png">
