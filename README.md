@@ -42,8 +42,19 @@ fd 4, then 5, then once again 3, once again 4, and so forth.
 > - Append the _bonus.[c\h] suffix to the bonus part files.
 It means that, in addition to the mandatory part files, you will turn in the 3 following
 files:
-   - get_next_line_bonus.c
-   - get_next_line_bonus.h
-   - get_next_line_utils_bonus.c
+> - get_next_line_bonus.c
+> - get_next_line_bonus.h
+> - get_next_line_utils_bonus.c
 
-      
+## Usage
+   
+```sh
+git clone https://github.com/BatuhanBilgili/get_next_line.git
+gcc get_next_line.c get_next_line_utils.c BUFFER_SIZE=n
+```
+## Tester
+   -You can test the project yourself without submitting this link:
+   - [https://github.com/Tripouille/gnlTester]
+## Final Result
+   
+   <img width="1302" alt="Ekran Resmi 2022-12-26 22 03 52" src="https://user-images.githubusercontent.com/91786686/209577066-80f69109-9eca-4339-926b-7fae7a8c0c9c.png">
